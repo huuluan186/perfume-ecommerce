@@ -69,7 +69,7 @@ Thêm lần lượt các secret sau:
    ```
    NODE_ENV          = production
    PORT              = 5000
-   CLIENT_URL        = https://perfumora-client.onrender.com  ← URL client Render (điền sau)
+   CLIENT_URL        = https://perfumora-client-latest.onrender.com  ← URL client Render (điền sau)
    SECRET_KEY        = (lấy từ .env local)
    JWT_RESET_SECRET  = (lấy từ .env local)
    DB_HOST           = (từ Aiven)
